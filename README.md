@@ -47,4 +47,4 @@ example
 =======
 
 
-	`````<div class="css3animate" data-group="[element group]" data-animation="'[any css3 animations from animate.css]" data-delay="[delay time in ms]"></div>`````
+	<div class="css3animate" data-group="[element group]" data-animation="'[any css3 animations from animate.css]" data-delay="[delay time in ms]"></div>
